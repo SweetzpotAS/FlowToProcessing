@@ -14,4 +14,7 @@ Visualize breathing data from two Flow sensors as a processing sketch
 
 ![Visualize](https://github.com/SweetzpotAS/FlowToProcessing/blob/master/flowToProcessing.png)
 
-6) Thats all! 
+6) Here is a video of the process
+[![Watch the video](https://github.com/SweetzpotAS/FlowToProcessing/blob/master/flowToProcessing.png)](https://vimeo.com/338575318)
+
+7) Thats all! 
